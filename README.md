@@ -1,2 +1,2 @@
 # DeadAndWounded
-Web version of dead and wounded
+Web version of dead and wounded game
